@@ -1,9 +1,23 @@
+2D_UFO/
+Adventure_Game/
+AdventureGame_2/
+Adventure_Game_3/
+Adventure_Game_4/
+Adventure_Game_5/
+Adventure_Game_6/
+Procedural_Cave_Generation/
+Roll_a_Ball/
+Space_Shooter/
+Tanks/
+
 # Mac files
 .DS_Store
 
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
+[Bb]uild/
+[Bb]uilds/
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
